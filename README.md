@@ -54,7 +54,7 @@ cargo run --release
 
 - Navigate to the "Transactions" tab to view all your tracked expenses and income.
 
-- Scroll through the transaction table using the up and down arrow keys or 'j' and 'k'.
+- Scroll through the transaction table using the up and down arrow keys.
 
   
 
@@ -86,10 +86,14 @@ cargo run --release
 
 -  **Quit:** Press 'q' or Esc to exit the application.
 
-  
 
 ## Data Persistence
 
   
 
 FinTrackR automatically saves all your transactions to a file named `transactions.json`. When you restart the application, the saved data will be loaded, allowing you to track your finances over time.
+
+## Demo
+
+
+[screen-capture-ezgif.com-video-speed.webm](https://github.com/user-attachments/assets/52a3c0f0-63cf-4bb5-9d1b-57a9653ad74b)
